@@ -1,7 +1,7 @@
 ntp
 ===
 
-This role enables users to install and configure ntp on their hosts.
+WOW This role enables users to install and configure ntp on their hosts.
 
 Requirements
 ------------
